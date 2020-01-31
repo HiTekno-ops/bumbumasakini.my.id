@@ -1,0 +1,38 @@
+{
+  "name": "Bumbu Masa Kini",
+  "short_name": "bumbu masak",
+  "start_url": "https://www.bumbumasakini.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Bumbu Masa Kini Resep nya Dapur Masakan Indonesia",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s48/bumbumasakini.my.id.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s72/bumbumasakini.my.id.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s96/bumbumasakini.my.id.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s144/bumbumasakini.my.id.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s168/bumbumasakini.my.id.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s192/bumbumasakini.my.id.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KQuCSSBfDH4/XjPi8Jdd1_I/AAAAAAAARNs/pSyk5WD-B_YKzZo4bu8SKi945rLwtsUtwCLcBGAsYHQ/s512/bumbumasakini.my.id.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
